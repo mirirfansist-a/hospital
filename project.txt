@@ -1,2 +1,3 @@
 Hospital Mnaagement system - Mini Pilot
 Created by Student A
+Update added by student B
